@@ -71,14 +71,15 @@
 
 # atvaizduojama linijine diagrama - group_agg.plot(kind='line') kaip linijine diagrama
 # jei pakeistume į group_agg.plot(kind='pie', subplots=True, figsize=(8, 4)), atvaizduotu kitaip
-# jei tai b8t7 taip: group_agg.plot(kind='bar', figsize=(8, 4))
+# jei tai butu taip: group_agg.plot(kind='bar', figsize=(8, 4)), atvaizduotu barais
 # group_agg.plot(kind='bar', figsize=(8, 4))
 # pridedamos diagramos antrastes
 # plt.title('suvestines statistika pagal vardus ir ju atlyginimus')
 # plt.xlabel('Vardas')
 # plt.ylabel('Atlyginimas')
 
-# atvaizduojama diagrama, kad tai veiktu, turi buti atkomentuota: 1, 2, 50, 55, 59, 62, 65, 68, 75, 77, 78, 79, 82
+
 # plt.show()
 
 
+# atvaizduojama diagrama, kad tai veiktu, turi buti atkomentuota: 1, 2, 50, 55, 59, 62, 65, 68, 75, 77, 78, 79, 82
